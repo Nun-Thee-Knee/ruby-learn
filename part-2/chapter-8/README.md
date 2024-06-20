@@ -1,0 +1,1 @@
+# Strings Symbols and other Scalar Objects
